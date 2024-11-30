@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\FirstProject\DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\hp\source\repos\FirstProject\DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\FirstProject\DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\hp\source\repos\FirstProject\DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\hp\source\repos\FirstProject\DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FirstProject\DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\hp\source\repos\MVC Project\DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\hp\source\repos\MVC Project\DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\hp\source\repos\MVC Project\DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\hp\source\repos\MVC Project\DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\MVC Project\DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\hp\source\repos\MVC Project\DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
